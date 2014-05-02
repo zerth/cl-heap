@@ -1,8 +1,8 @@
 heap
 ====
 
-Thread-safe heap implementations for Common Lisp.  Initial
-implementation includes splay heaps.
+Thread-safe heap (priority queue) implementations for Common Lisp.
+Initial implementation includes splay heaps.
 
 Usage:
 
